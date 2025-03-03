@@ -45,6 +45,8 @@ There are lines of input, and each line contains a single integer.
 
 #### Sample Output 
 
+import java.util.Scanner
+
 ```
 42
 100
